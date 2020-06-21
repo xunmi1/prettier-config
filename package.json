@@ -1,0 +1,11 @@
+{
+  "name": "@xunmi/prettier-config",
+  "version": "0.1.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "author": "xunmi",
+  "license": "MIT",
+  "files": [
+    "index.json"
+  ]
+}
