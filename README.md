@@ -23,6 +23,7 @@ npm install -D @xunmi/prettier-config
   ```js
   module.exports = {
     ...require('@xunmi/prettier-config'),
+    // overwrite some properties
     semi: false,
   };
   ```

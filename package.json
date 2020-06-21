@@ -1,11 +1,22 @@
 {
   "name": "@xunmi/prettier-config",
-  "version": "0.1.0",
+  "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "My personal Prettier config",
   "main": "index.json",
   "author": "xunmi",
   "license": "MIT",
   "files": [
     "index.json"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunmi1/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xunmi1/prettier-config/issues"
+  },
+  "homepage": "https://github.com/xunmi1/prettier-config#readme"
 }
