@@ -34,16 +34,16 @@ npm install -D @xunmi/prettier-config
 
    value: **`es5`**
    
-   default value changed from `none` to `es5` in v2.0.0
+   default value changed from `none` to `es5` in Prettier v2.0
    
 - `arrowParens`
 
    value: **`avoid`**
 
-   default value changed from `avoid` to `always` in v2.0.0
+   default value changed from `avoid` to `always` in Prettier v2.0
    
 - `endOfLine`
 
    value: **`lf`**
 
-   default value changed from `auto` to `lf` in v2.0.0
+   default value changed from `auto` to `lf` in Prettier v2.0
