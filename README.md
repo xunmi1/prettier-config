@@ -1,4 +1,4 @@
-# `@xunmi/prettier-config`
+# @xunmi/prettier-config
 
 > My personal [Prettier](https://prettier.io) config.
 
