@@ -1,6 +1,6 @@
 {
   "name": "@xunmi/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -19,6 +19,7 @@
     "url": "https://github.com/xunmi1/prettier-config/issues"
   },
   "homepage": "https://github.com/xunmi1/prettier-config#readme",
+  "sideEffects": false,
   "peerDependencies": {
     "prettier": ">= 1.13.0"
   }
